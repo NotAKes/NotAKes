@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python Backend Developer🐍<br>one-frog owner🐸<br>intern-junior👶<br>
+Python Backend Developer<br>one-frog owner<br>intern-junior<br>
 
 
 # 💻 Tech Stack:
